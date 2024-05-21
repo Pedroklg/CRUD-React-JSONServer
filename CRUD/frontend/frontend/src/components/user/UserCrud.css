@@ -1,0 +1,4 @@
+.btn-secondary, .btn-danger {
+  margin-left: 1rem;
+  background-color: rgb(179, 20, 20);
+}
